@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "naijastore"
+name = "reviewBackend"
 version = "0.1.0"
 description = ""
 authors = ["Prosper Ogbonnaya <ogbonnayaprosper1@gmail.com>"]
